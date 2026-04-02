@@ -1,4 +1,5 @@
-.claude
-.git
-.gradle
-.idea
+.gradle/
+.idea/
+.kotlin/
+build/
+local.properties
